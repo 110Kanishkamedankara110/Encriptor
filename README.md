@@ -2,7 +2,7 @@
 Encriptor based on enigma machine that i build using java
 Add Library To your Project
 
-package Nature;
+
 
 import com.pixbin.encript.Decriptor;
 import com.pixbin.encript.Encriptor;
